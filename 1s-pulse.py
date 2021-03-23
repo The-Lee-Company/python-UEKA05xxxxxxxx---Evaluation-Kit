@@ -25,7 +25,7 @@ serialPort.write(b"#W0,1\n")
 # wait for 1 second
 time.sleep(1)
 
-# set the drive power set point to 1000 mW
+# set the drive power set point to 0 mW
 serialPort.write(b"#W23,0\n")
 
 # turn the pump off
