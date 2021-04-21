@@ -13,4 +13,4 @@ This repository contains a Python code snippet library for our Disc Pump Evaluat
 
 For additional support, please visit www.ttpventus.com/support or email the TTP Ventus Support Team at [support@ttpventus.com](mailto:support@ttpventus.com). 
 
-We welcome suggestions for how we can improve and build upin this repository; please feel free to share your ideas, feature requests and any bugs you identify with us using the email address above. 
+We welcome suggestions for how we can improve and build upon this repository; please feel free to share your ideas, feature requests and any bugs you identify with us using the email address above. 
