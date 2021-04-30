@@ -9,7 +9,7 @@ This repository contains a Python code snippet library for our Disc Pump Evaluat
 * **target-pressure-dial.py** - Setup a PID loop so that the dial controls the target output pressure.
 * **target-pressure.py** - Setup a PID loop to control to pressure, and set a target pressure.
 
-**Take note of the libraries dependencies in each script. Please ensure you have the relevant libraries instatalled.**
+**Take note of the libraries dependencies in each script. Please ensure you have the relevant libraries installed.**
 
 ## Contact us
 
