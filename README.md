@@ -1,5 +1,5 @@
-# python-EK-M-015
-This repository contains a Python code snippet library for our Disc Pump Evaluation Kit - EK-M-015.
+# Disc pump Eval kit Python control - UEKA05xxxxxxxx
+This repository contains a Python code snippet library for The Lee Company Disc Pump Evaluation Kit - UEKA05xxxxxxxx (previously EK-M-015).
 
 ## Repository contents
 * **1s-pulse.py** - Turn the pump on at 1W for 1 second, then turn it off.
@@ -9,11 +9,11 @@ This repository contains a Python code snippet library for our Disc Pump Evaluat
 * **target-pressure-dial.py** - Setup a PID loop so that the dial controls the target output pressure.
 * **target-pressure.py** - Setup a PID loop to control to pressure, and set a target pressure.
 
-**Take note of the libraries dependencies in each script. Please ensure you have the relevant libraries installed.**
+**Take note of the libraries dependencies in each script. Please ensure you have the relevant libraries installed. For setting up a python environment you can visit https://www.jetbrains.com/help/pycharm/getting-started.html**
 
 ## Contact us
 
-For additional support, please visit www.ttpventus.com/support or email the TTP Ventus Support Team at [support@ttpventus.com](mailto:support@ttpventus.com). 
+For additional support, please visit https://www.theleeco.com/contact/ or you can call our Technical Support Line on 1-800-LEE-PLUG.
 
 We welcome suggestions for how we can improve and build upon this repository; please feel free to share your ideas, feature requests and any bugs you identify with us using the email address above. 
 
